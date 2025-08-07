@@ -1,6 +1,6 @@
 ﻿Dim iURL, objShell, fileSystemObj, browserPath, browserName
 
-iURL = "https://advantageonlinebanking.com/dashboard"
+
 Set objShell = CreateObject("Shell.Application")
 Set fileSystemObj = CreateObject("Scripting.FileSystemObject")
 

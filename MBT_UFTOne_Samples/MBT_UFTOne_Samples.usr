@@ -15,6 +15,7 @@ Action0=Action0\Script.mts
 Logout=Action4\Script.mts
 RegisterNewUser=Action2\Script.mts
 UserLogin_Shopping=Action5\Script.mts
+Lockeduser=Action7\Script.mts
 
 [VuserProfiles]
 Profiles=Default Profile
@@ -68,3 +69,6 @@ Action2\ObjectRepository.bdb=
 Action5\Script.mts=
 Action5\Resource.mtr=
 Action5\ObjectRepository.bdb=
+Action7\Script.mts=
+Action7\Resource.mtr=
+Action7\ObjectRepository.bdb=
