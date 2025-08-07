@@ -1,6 +1,8 @@
 ﻿Dim iURL, objShell, fileSystemObj, browserPath, browserName
 
 iURL = "https://www.saucedemo.com/"
+
+
 Set objShell = CreateObject("Shell.Application")
 Set fileSystemObj = CreateObject("Scripting.FileSystemObject")
 
